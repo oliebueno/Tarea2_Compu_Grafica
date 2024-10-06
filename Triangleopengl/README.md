@@ -4,7 +4,7 @@
 
 Oliver Bueno  
 15-10192  
-API: WebGL 2
+API: OpenGL
 
 ## Descripción
 
