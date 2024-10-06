@@ -1,0 +1,3 @@
+/home/oliver/Documentos/Triangleopengl/build/CMakeFiles/triangle.dir
+/home/oliver/Documentos/Triangleopengl/build/CMakeFiles/edit_cache.dir
+/home/oliver/Documentos/Triangleopengl/build/CMakeFiles/rebuild_cache.dir
